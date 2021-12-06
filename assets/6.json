@@ -1,0 +1,19 @@
+{
+    "name": "Kickoo",
+    "symbol": "",
+    "image": "6.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "6.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "43E9CYeZ8ZomHXHVHTJRH5mbxBXmUcbURAkSvg51Gci3",
+          "share": 100
+        }
+      ]
+    }
+  }

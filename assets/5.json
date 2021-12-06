@@ -1,0 +1,19 @@
+{
+    "name": "Hoodrick",
+    "symbol": "",
+    "image": "5.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "5.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "43E9CYeZ8ZomHXHVHTJRH5mbxBXmUcbURAkSvg51Gci3",
+          "share": 100
+        }
+      ]
+    }
+  }
